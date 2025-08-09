@@ -16,7 +16,7 @@ const LuxuryHome = () => {
       <section className="grid grid-cols-1 md:grid-cols-3">
         <img src="/images/sari12.jpg" alt="Saree 1" className="w-full h-[500px] object-cover" />
         <img src="/images/sari11.jpg" alt="Saree 2" className="w-full h-[500px] object-cover" />
-        <img src="/images/sari13.jpg" alt="Saree 3" className="w-full h-[500px] object-cover" />
+        <img src="/images/sari7.png" alt="Saree 3" className="w-full h-[500px] object-cover" />
       </section>
 
       {/* Signature Collection */}
