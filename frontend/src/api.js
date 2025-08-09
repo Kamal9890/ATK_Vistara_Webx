@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api", // your backend URL
+  baseURL: "https://atk-vistara-webx.onrender.com/api", 
 });
 
 // Attach token to every request (if logged in)
